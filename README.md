@@ -1,5 +1,5 @@
 Streaming View: (Kaaryin changes for Streamed View)
-Main/views/UsersUtil.as
+/bigbluebutton/core/UsersUtil.as
 Modules/videoconf/ToolbarPopupButton.mxml
 main/views/cameradisplaysettings.mxml
 main/views/videowithwarnings.as
