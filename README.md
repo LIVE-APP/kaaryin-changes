@@ -1,6 +1,6 @@
 Streaming View: (Kaaryin changes for Streamed View)
-Main/views/UsersUtil.as
-Modules/videoconf/ToolbarPopupButton.mxml
+/bigbluebutton/core/UsersUtil.as
+Modules/videoconf/views/ToolbarPopupButton.mxml
 main/views/cameradisplaysettings.mxml
 main/views/videowithwarnings.as
 videoconf/business/videoproxy.as
