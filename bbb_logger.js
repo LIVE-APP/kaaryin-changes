@@ -4,9 +4,11 @@ kaaryinClients[1] = "http://local.kaaryin.com/";
 kaaryinClients[2] = "http://sollers.kaaryin.com/sollers/web/";
 kaaryinClients[3] = "http://asianet.kaaryin.com/asianet/web/";
 kaaryinClients[4] = "http://maalee.kaaryin.com/maalee/web/";
-kaaryinClients[5] = "https://live-tutor.com/";
+kaaryinClients[5] = "https://courses.live-tutor.com/";
 kaaryinClients[6] = "http://asianet.live-tutor.com/asianet/courses/";
 kaaryinClients[7] = "http://myconf.live-tutor.com/";
+kaaryinClients[9] = "http://livetutoredu.com/";
+kaaryinClients[10] = "http://tia.kaaryin.com/";
 $(window).load(function(){
 	$.ajax({
 		method: "GET",
